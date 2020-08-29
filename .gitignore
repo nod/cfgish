@@ -1,0 +1,4 @@
+pyvenv
+*.pyc
+**/*.egg-info
+*.swp

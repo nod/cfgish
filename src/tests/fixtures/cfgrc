@@ -1,0 +1,7 @@
+[s3]
+access_key = access
+secret_key = secret
+bucket = testeroo
+endpoint = https://s3.example.com
+
+
